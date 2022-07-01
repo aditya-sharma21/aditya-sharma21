@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"> 
-  Stalker Count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/aditya-sharma21/count.svg" />
 </p>
   <br>
